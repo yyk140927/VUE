@@ -1,0 +1,168 @@
+{
+  "branch": [{
+      "branceNo": 121315,
+      "branchImg": "http://img95.699pic.com/photo/50046/7392.jpg_wh860.jpg",
+      "branchBigImg": "http://img95.699pic.com/photo/50046/7389.jpg_wh860.jpg",
+      "state": 1,
+      "name": "上海银行(新桥支行)",
+      "address": "松江区 新南街538号",
+      "star": 4.2,
+      "number": 12,
+      "label": [{
+        "allDay": 1,
+        "branches": 0,
+        "remittance": 0,
+        "loan": 0
+      }],
+      "characteristic": [{
+        "dis": 0,
+        "opening": 0
+      }],
+      "distance": "345m"
+    },
+    {
+      "branceNo": 121316,
+      "branchImg": "http://img95.699pic.com/photo/50046/7392.jpg_wh860.jpg",
+      "branchBigImg": "http://img95.699pic.com/photo/50046/7389.jpg_wh860.jpg",
+      "state": 1,
+      "name": "上海银行博兴路支行心",
+      "address": "东陆公路金源商住大厦1层",
+      "star": 4.9,
+      "number": 36,
+      "label": [{
+        "allDay": 1,
+        "branches": 1,
+        "remittance": 0,
+        "loan": 1
+      }],
+      "characteristic": [{
+        "dis": 0,
+        "opening": 1
+      }],
+      "distance": "800m"
+    },
+    {
+      "branceNo": 121318,
+      "branchImg": "http://img95.699pic.com/photo/50046/7392.jpg_wh860.jpg",
+      "branchBigImg": "http://img95.699pic.com/photo/50046/7389.jpg_wh860.jpg",
+      "state": 0,
+      "name": "上海银行(莘庄支行)",
+      "address": "莘松路215号",
+      "star": 3.4,
+      "number": 5,
+      "label": [{
+        "allDay": 0,
+        "branches": 0,
+        "remittance": 0,
+        "loan": 0
+      }],
+      "characteristic": [{
+        "dis": 0,
+        "opening": 0
+      }],
+      "distance": "1.2km"
+    },
+    {
+      "branceNo": 121326,
+      "branchImg": "http://img95.699pic.com/photo/50046/7392.jpg_wh860.jpg",
+      "branchBigImg": "http://img95.699pic.com/photo/50046/7389.jpg_wh860.jpg",
+      "state": 1,
+      "name": "上海银行(漕宝路支行)",
+      "address": "闵行区 漕宝路1255号",
+      "star": 5.0,
+      "number": 1,
+      "label": [{
+        "allDay": 0,
+        "branches": 1,
+        "remittance": 0,
+        "loan": 0
+      }],
+      "characteristic": [{
+        "dis": 0,
+        "opening": 0
+      }],
+      "distance": "1.7km"
+    },
+    {
+      "branceNo": 121336,
+      "branchImg": "http://img95.699pic.com/photo/50046/7392.jpg_wh860.jpg",
+      "branchBigImg": "http://img95.699pic.com/photo/50046/7389.jpg_wh860.jpg",
+      "state": 0,
+      "name": "上海银行(长海路支行)",
+      "address": "杨浦区 长海路580号号",
+      "star": 4.5,
+      "number": 5,
+      "label": [{
+        "allDay": 1,
+        "branches": 0,
+        "remittance": 1,
+        "loan": 0
+      }],
+      "characteristic": [{
+        "dis": 0,
+        "opening": 0
+      }],
+      "distance": "1.9km"
+    }, {
+      "branceNo": 131334,
+      "branchImg": "http://webmap0.bdimg.com/client/services/thumbnails?&width=120&align=bottom,center&height=80&quality=100&src=http://hiphotos.baidu.com/lbsugc/c%3Dmap%2C90%2C90/sign=a59397b62d1f95cab2f5cae7b93b460e/0824ab18972bd4070763413573899e510eb30955.jpg",
+      "branchBigImg": "http://img95.699pic.com/photo/50046/7389.jpg_wh860.jpg",
+      "state": 1,
+      "name": "上海银行(自忠支行)",
+      "address": "黄浦区 徐家汇路123号",
+      "star": 1,
+      "number": 2,
+      "label": [{
+        "allDay": 0,
+        "branches": 1,
+        "remittance": 0,
+        "loan": 1
+      }],
+      "characteristic": [{
+        "dis": 0,
+        "opening": 0
+      }],
+      "distance": "2.0km"
+    }, {
+      "branceNo": 125212,
+      "branchImg": "http://img95.699pic.com/photo/50046/7392.jpg_wh860.jpg",
+      "branchBigImg": "http://img95.699pic.com/photo/50046/7389.jpg_wh860.jpg",
+      "state": 0,
+      "name": "上海银行(王港路支行)",
+      "address": "浦东新区 上丰路1730号",
+      "star": 3.0,
+      "number": 2,
+      "label": [{
+        "allDay": 0,
+        "branches": 0,
+        "remittance": 0,
+        "loan": 0
+      }],
+      "characteristic": [{
+        "dis": 0,
+        "opening": 0
+      }],
+      "distance": "2.6km"
+    }, {
+      "branceNo": 156746,
+      "branchImg": "http://img95.699pic.com/photo/50046/7392.jpg_wh860.jpg",
+      "branchBigImg": "http://img95.699pic.com/photo/50046/7389.jpg_wh860.jpg",
+      "state": 1,
+      "name": "上海银行(平阳支行)",
+      "address": "闵行区 龙茗路577号",
+      "star": 4.5,
+      "number": 2,
+      "label": [{
+        "allDay": 0,
+        "branches": 1,
+        "remittance": 1,
+        "loan": 1
+      }],
+      "characteristic": [{
+        "dis": 0,
+        "opening": 0
+      }],
+      "distance": "2.8km"
+    }
+  ]
+}

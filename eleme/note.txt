@@ -1,0 +1,16 @@
+fade  enter  进入
+leave  离开
+fade-enter 1  进入过度的开始状态， v-show  true
+              v-if true  router-link component被mount,
+              keyframe 只应用一帧  初始作用 opacity 0 0% 1%
+fade-enter-active  负责了从不可见到可见的 2
+opacity 1  变化  100% 完成了，消失
+fade-leave  3
+元素被删除时 只应用一帧  opacity 1
+fade-leave-active 99%  完成了，消失
+active 
+
+&.fade-enter-active, &.fade-leave-active  
+    transition: all .5s ease
+&.fade-enter, &.fade-leave-active
+    opacity: 0

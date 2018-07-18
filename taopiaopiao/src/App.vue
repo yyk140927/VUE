@@ -1,0 +1,38 @@
+<template>
+  <div id="app" :style="{height:'100%'}">
+    <div class="main" :style="{height:'100%'}">
+      <router-view></router-view>
+    </div>
+    <footerNav :showNav="showNav"></footerNav>
+  </div>
+</template>
+
+<script>
+import footerNav from './components/footerNav'
+export default {
+  name: 'app',
+  data () {
+    return {
+      direction: 'forward',
+      showNav: true
+    }
+  },
+  components: {
+    footerNav
+  }
+}
+</script>
+
+<style>
+  *{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background: #f5f5f5;
+  }
+  .main{
+    padding-bottom: 60px;
+  }
+</style>
